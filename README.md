@@ -1,0 +1,1 @@
+This repository contains a simple Go program demonstrating an array index out of bounds error and its solution. The `bug.go` file showcases the error, while `bugSolution.go` provides the corrected code.
